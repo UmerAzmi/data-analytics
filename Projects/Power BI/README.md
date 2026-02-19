@@ -47,19 +47,19 @@ Each file contains a complete report and can be explored independently.
 ### Myntra Dashboard
 
 <p align="left">
-  <img src="Images/myntra-dashboard.png" alt="Myntra Dashboard" width="900">
+  <img src="Images/myntra-dashboard.png" alt="Myntra Dashboard" width="800">
 </p>
 
 ### Road Accidents Dashboard
 
 <p align="left">
-  <img src="Images/road-accidents.png" alt="Road Accidents Dashboard" width="900">
+  <img src="Images/road-accidents.png" alt="Road Accidents Dashboard" width="800">
 </p>
 
 ### Trips Report Dashboard
 
 <p align="left">
-  <img src="Images/trip-report.png" alt="Trips Report Dashboard" width="900">
+  <img src="Images/trip-report.png" alt="Trips Report Dashboard" width="800">
 </p>
 
 ---
