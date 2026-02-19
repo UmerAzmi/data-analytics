@@ -40,31 +40,31 @@ Each workbook contains a complete analysis or dashboard and can be explored inde
 
 ### Bike Sales Dashboard
 
-<p align="center">
+<p align="left">
   <img src="Images/bike-sales.png" alt="Bike Sales Dashboard" width="700">
 </p>
 
 ### McDonald’s Sales Dashboard
 
-<p align="center">
+<p align="left">
   <img src="Images/mcdonalds-sales.png" alt="McDonald's Sales Dashboard" width="700">
 </p>
 
 ### HR Employee Analysis Dashboard
 
-<p align="center">
+<p align="left">
   <img src="Images/hr.png" alt="HR Employee Analysis Dashboard" width="700">
 </p>
 
 ### Bike Shop Sales Dashboard
 
-<p align="center">
+<p align="left">
   <img src="Images/bike-shop-sales.png" alt="Bike Shop Sales Dashboard" width="500">
 </p>
 
 ### Coffee Shop Sales Dashboard
 
-<p align="center">
+<p align="left">
   <img src="Images/coffee-shop-sales.png" alt="Coffee Shop Sales Dashboard" width="500">
 </p>
 
